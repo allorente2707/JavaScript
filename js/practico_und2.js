@@ -73,7 +73,7 @@ parámetro un valor entero, y devuelva el siguiente del número
 ingresado como parámetro.*/
 
 
-/*
+
 function promedio() {
     let suma = 0;
     let cantidad = 0;
@@ -93,7 +93,7 @@ function promedio() {
     }
 
 }
-console.log(promedio())*/
+console.log(promedio())
 
 
 
