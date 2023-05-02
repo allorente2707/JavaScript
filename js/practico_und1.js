@@ -4,41 +4,41 @@
 /*1. Escribe un programa de una sola línea que haga que aparezca en la pantalla un
 alert que diga “Hello World”.*/
 
-//console.log(alert("Hello World!!"))
+console.log(alert("Hello World!!"))
 
 
 /*2. Escribe un programa de una sola línea que escriba en la pantalla un texto que
 diga “Hello World” (document.write).*/
 
-//document.write("Hello World!!");
+document.write("Hello World!!");
 
 
 /*3. Escribe un programa de una sola línea que escriba en la pantalla el resultado
 de sumar 3 + 5.*/
 
-/*document.write(3+5);
+document.write(3+5);
 
 
 /*4. Escribe un programa de dos líneas que pida el nombre del usuario con un
 prompt y escriba un texto que diga “Hola nombreUsuario”.*/
 
-/*
+
 let nombre = prompt("Ingresar nombre de usuario por favor:")
 document.write("Hola", nombre)
-*/
+
 
 /*5. Escribe un programa de tres líneas que pida un número, pida otro número y
 escriba el resultado de sumar estos dos números.*/
 
-/*
+
 let num1 = prompt("Ingrese un numero:");
 let num2 = prompt("Ingrese otro numero:");
-document.write("La suma es: ", (parseInt(num1) + parseInt(num2)));*/
+document.write("La suma es: ", (parseInt(num1) + parseInt(num2)));
 
 /*6. Escribe un programa que pida dos números y escriba en la pantalla cual es el
 mayor.*/
 
-/*
+
 let num3 = prompt("Ingrese un numero:")
 let num4 = prompt("Ingrese otro numero:")
 if (num3 > num4) {
@@ -46,7 +46,7 @@ if (num3 > num4) {
 } else {
     document.write(num4);
 }
-*/
+
 
 /*7. Escribe un programa que pida 3 números y escriba en la pantalla el mayor de
 los tres.*/
@@ -67,14 +67,14 @@ if (n1 > n2 && n1 > n3) {
 
 //8. Escribe un programa que pida un número y diga si es divisible por 2.
 
-/*
+
 let numero = prompt("Ingrese un numero:")
 if (numero%2==0) {
     document.write(numero," es divisible por 2 o sea que es un numero par!")
 } else {
     document.write(numero, " es no esdivisible por 2 o sea que es un numero impar!")
 }
-*/
+
 
 /*
 var n1 = prompt("Escribe un número");
