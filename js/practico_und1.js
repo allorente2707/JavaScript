@@ -110,7 +110,7 @@ let frase=prompt("Ingresar frase")
 let vocal=0;
 for(let j=0; j<frase.length; j++) {
 
-    if(frase[j] == "a" || frase[j] == "e" || frase[j] == "i" || frase[j] == "o"  || frase[j]=="u") {
+    if (frase[j]=="a" || frase[j]=="e" || frase[j]=="i" || frase[j]=="o"  || frase[j]=="u" ) {
         vocal++;
     }
     j++;
