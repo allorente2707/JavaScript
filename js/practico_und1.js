@@ -105,7 +105,7 @@ document.write("La letra a aparece ",n," veces")
 
 //10. Escribe un programa que pida una frase y escriba las vocales que aparecen.
 
-/*
+
 let frase=prompt("Ingresar frase")
 let vocal=0;
 for(let j=0; j<frase.length; j++) {
@@ -116,7 +116,7 @@ for(let j=0; j<frase.length; j++) {
     j++;
 }
 
-console.log("Aparecen ",vocal," vocales"); */
+console.log("Aparecen ",vocal," vocales");
 
 /*
 var text = prompt("Escribe una frase");
